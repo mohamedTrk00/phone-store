@@ -30,7 +30,6 @@ body {
     font-style: normal;
 }
 
-/* Add styles for dark mode */
 .dark-mode {
     background-color: #333;
     color: #fff;
@@ -38,9 +37,7 @@ body {
 
 .dark-mode .pageOfMED {
     background-color: #333;
-    /* Example background color for dark mode */
     color: #fff;
-    /* Example text color for dark mode */
 }
 
 
