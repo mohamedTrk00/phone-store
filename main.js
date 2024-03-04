@@ -12,7 +12,7 @@ $(document).ready(function () {
         $('body').toggleClass('dark-mode')
 
 
-        isDarkMode = !isDarkMode;
+        isDarkMode = !isDarkMode
     }
     $('#modeToggle').click(function () {
 
