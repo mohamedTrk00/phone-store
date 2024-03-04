@@ -23,8 +23,8 @@ $(document).ready(function () {
         } else {
             $(this).text('Dark Mode')
         }
-    });
-});
+    })
+})
 
 
 $(document).ready(function () {
